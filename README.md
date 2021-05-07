@@ -1,9 +1,9 @@
-This project aims to process the meeting transcript files and generate 
+This project aims to process the meeting text files and generate action and summary of meetings as
 required output.
 
-It takes meeting transcript file as input and does,
+It takes meeting text file as input and does,
 
-1. Preprocesses the meeting transcript file
+1. Preprocesses the meeting text file
 2. Generates action statements,
 3. Generates summary of meeting.
 
