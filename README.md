@@ -1,4 +1,3 @@
-#############################################################################
 This project aims to process the meeting transcript files and generate 
 required output.
 
@@ -31,6 +30,6 @@ usage: process_transcripts.py [-h] -f TRANSCRIPT_FILENAME -o OUTPUT_DIR
 
 An example of the usage of the script is given below.
 
-python process_transcripts.py -f ../txtfiles/transcript_2020-06-22T17:14:00.566Z_2d152bf3-fe8c-4609-b81e-5690eaa065b6.txt -o ./outputs/Action/
+python process_transcripts.py -f ../txtfiles/transcript_filename.txt -o ./outputs/Action/
 
 
