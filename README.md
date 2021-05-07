@@ -1,5 +1,4 @@
-This project aims to process the meeting text files and generate action and summary of meetings as
-required output.
+This project aims to process the meeting text files and generate actions and summary of meeting as output.
 
 It takes meeting text file as input and does,
 
